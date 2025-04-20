@@ -5,7 +5,6 @@ import SearchBar, { SearchForm } from "@/components/SearchBar";
 import { useNavigate } from "react-router-dom";
 
 
-// ₹  £
 const HomePage = () => {
   const navigate = useNavigate();
 
